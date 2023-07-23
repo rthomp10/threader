@@ -3,7 +3,9 @@
    Threader
 </h1>
 
-Threader is a multi-threaded burn test that can dynamically manage the number of enabled threads. Use `j` or `k` to modify the number of threads.
+A thread burner utility. It spins up threads and gives your processor a workout. Use `j` or `k` to modify the number of threads.
+
+![examples](misc/example.webp)
 
 ## Use Cases
 - **Test CPU/core scaling**: Run with 1 thread per core to verify the CPU can scale up to full capacity
